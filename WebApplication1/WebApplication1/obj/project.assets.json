@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Joydeep_Work\\DevOpsBatch2\\VS_Project\\WebApplication_Batch2\\WebApplication_Batch2\\WebApplication_Batch2.csproj",
-      "projectName": "WebApplication_Batch2",
-      "projectPath": "C:\\Joydeep_Work\\DevOpsBatch2\\VS_Project\\WebApplication_Batch2\\WebApplication_Batch2\\WebApplication_Batch2.csproj",
+      "projectUniqueName": "C:\\Joydeep_Work\\DevOpsBatch2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectName": "WebApplication1",
+      "projectPath": "C:\\Joydeep_Work\\DevOpsBatch2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Joydeep PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Joydeep_Work\\DevOpsBatch2\\VS_Project\\WebApplication_Batch2\\WebApplication_Batch2\\obj\\",
+      "outputPath": "C:\\Joydeep_Work\\DevOpsBatch2\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joydeep PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
